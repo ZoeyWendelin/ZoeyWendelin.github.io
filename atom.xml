@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zoeywendelin.github.io</id>
     <title>Tbeam</title>
-    <updated>2022-03-27T12:20:13.001Z</updated>
+    <updated>2022-04-09T15:31:54.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zoeywendelin.github.io"/>
     <link rel="self" href="https://zoeywendelin.github.io/atom.xml"/>
@@ -11,6 +11,23 @@
     <logo>https://zoeywendelin.github.io/images/avatar.png</logo>
     <icon>https://zoeywendelin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Tbeam</rights>
+    <entry>
+        <title type="html"><![CDATA[碎片]]></title>
+        <id>https://zoeywendelin.github.io/post/sui-pian/</id>
+        <link href="https://zoeywendelin.github.io/post/sui-pian/">
+        </link>
+        <updated>2022-04-04T08:02:29.000Z</updated>
+        <content type="html"><![CDATA[<p>收益<br>
+投资回报<br>
+薪资<br>
+营业收入<br>
+偶然性收入</p>
+<p>薪资中主业收入和副业收入。<br>
+收入分为身份认同+价格收入</p>
+<p>时间收入——以时间为给付标准，而非创造。<br>
+成果收入——可以突破时间收入的价值上限。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why should we study？]]></title>
         <id>https://zoeywendelin.github.io/post/why-should-we-study/</id>
@@ -213,50 +230,6 @@ woo eieah<br>
 勤<br>
 <img src="https://zoeywendelin.github.io/post-images/1647847467431.jpg" alt="" loading="lazy"><br>
 思辨决定上限</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Accompany]]></title>
-        <id>https://zoeywendelin.github.io/post/hello-gridea/</id>
-        <link href="https://zoeywendelin.github.io/post/hello-gridea/">
-        </link>
-        <updated>2022-03-21T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎来到 <strong>TBeam</strong> ！<br>
-✍️  <strong>TBeam</strong> 一个成长型博客，用它来记录一位“时间流速异于常人的三番观测者”的生活、体悟、知识、笔记、创意... ...<br>
-<strong>TBeam</strong><br>
-=<strong>To Beam</strong><br>
-=<strong>To Be Me</strong><br>
-=<strong>To Be Me by beaming</strong><br>
-by Zoey Wendelin<br>
-—————————————————————</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎来到 <strong>TBeam</strong> ！<br>
-✍️  <strong>TBeam</strong> 一个成长型博客，用它来记录一位“时间流速异于常人的三番观测者”的生活、体悟、知识、笔记、创意... ...<br>
-<strong>TBeam</strong><br>
-=<strong>To Beam</strong><br>
-=<strong>To Be Me</strong><br>
-=<strong>To Be Me by beaming</strong><br>
-by Zoey Wendelin<br>
-—————————————————————</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<p>##我正在学习去达成的Blog特性👇<br>
-📝  可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  可以对文章进行标签分组</p>
-<p>📋  可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  可以使用<strong>中文简体</strong>或<strong>英语</strong>，何必仅限于此呢，<strong>日语</strong>也未尝不可。初生牛犊自然要有与年龄相匹配的野心与梦想。</p>
-<p>🌁  可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力。<strong>我定义我</strong></p>
-<p>🖥  可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>TBeam</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，一定会成为你离不开的伙伴</p>
-<p>敬请期待吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
