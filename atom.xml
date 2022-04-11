@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zoeywendelin.github.io</id>
     <title>Tbeam</title>
-    <updated>2022-04-09T15:31:54.658Z</updated>
+    <updated>2022-04-11T03:11:09.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zoeywendelin.github.io"/>
     <link rel="self" href="https://zoeywendelin.github.io/atom.xml"/>
@@ -11,6 +11,26 @@
     <logo>https://zoeywendelin.github.io/images/avatar.png</logo>
     <icon>https://zoeywendelin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Tbeam</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么要做喜欢的事情？]]></title>
+        <id>https://zoeywendelin.github.io/post/wei-shi-me-yao-zuo-xi-huan-de-shi-qing/</id>
+        <link href="https://zoeywendelin.github.io/post/wei-shi-me-yao-zuo-xi-huan-de-shi-qing/">
+        </link>
+        <updated>2022-04-11T03:09:03.000Z</updated>
+        <content type="html"><![CDATA[<p>我们之所以要做自己喜欢的事，或许是因为喜欢是一种直觉，是免去了分析过程和条件判断的直接结果输出。</p>
+<p>不过我们需要辨析，<br>
+这种喜欢是出于动物本能，还是出于洞察力。<br>
+或者说，<br>
+这种喜欢是出于“朝令夕改的感觉”，还是出于“恒久不变的优先”。</p>
+<p>如果去做我们所喜欢的事情，那么后面的时间看起来都很像是去用实践去寻找被省略的判断过程，而后得以进行经验分享。<br>
+唔，所以经验分享帖（尤其是关于状态方面的经验分享）是不是可信度没有那么高呢？从事后的角度分析，可以有很多的表征，但也许从事中的角度来看的话，全部都是出于一种名为喜欢的本质呢？/或者说优先级？或者说信念？<br>
+模仿经验分享帖中的表征是很危险的，有很多告诫的声音——要根据个人的情况调整啊！千万不要照搬照用啊。<br>
+——为什么呢？是因为模仿的表征流于表面吗？如果状态到位了，信念到位了，是不是就会变成“条条大路通罗马”的自发态呢？</p>
+<p>这样看来，“喜欢”就是“选择中的优先级”了吧，动力优先级。不过貌似世人常被现实逼迫着讨生活，无论是风里来雨里去的工人/外卖员，还是坐办公室的投行/CxO，本质上没有办法去“选择”。我想说，我们都在被社会所强奸，被社会时钟所强奸，唯一的救赎就是艰苦卓绝的奋斗。</p>
+<p>很多时候，我们在做事之前并不知道结果，唯一能确定的是自己的想法和状态。</p>
+<p>除了相信自己，别无选择。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[碎片]]></title>
         <id>https://zoeywendelin.github.io/post/sui-pian/</id>
@@ -218,18 +238,6 @@ woo eieah<br>
 <figure data-type="image" tabindex="4"><img src="https://zoeywendelin.github.io/post-images/1647835927761.jpg" alt="" loading="lazy"></figure>
 <!-- more -->
 <figure data-type="image" tabindex="5"><img src="https://zoeywendelin.github.io/post-images/1647835939081.jpg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[书法-1]]></title>
-        <id>https://zoeywendelin.github.io/post/shu-fa-qin/</id>
-        <link href="https://zoeywendelin.github.io/post/shu-fa-qin/">
-        </link>
-        <updated>2022-03-21T03:59:25.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://zoeywendelin.github.io/post-images/1647847441270.jpg" alt="" loading="lazy"><br>
-勤<br>
-<img src="https://zoeywendelin.github.io/post-images/1647847467431.jpg" alt="" loading="lazy"><br>
-思辨决定上限</p>
 ]]></content>
     </entry>
 </feed>
